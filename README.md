@@ -1,4 +1,4 @@
-##Glove Defect Detection using OpenCV
+
 This project is a surface defect detection script for gloves using Python and OpenCV. It processes images to detect and highlight defects on the surface of a glove.
 
 Features
