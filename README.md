@@ -25,7 +25,7 @@ Activate the virtual environment:
 
 Windows:
 ```bash
-venv\Scripts\activate
+source venv\Scripts\activate
 ```
 Mac/Linux:
 source venv/bin/activate
